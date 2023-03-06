@@ -164,6 +164,10 @@ If you have ever read the side stories of Ark, you must heard of Logos and stool
 - Build GitHub page
 - Build Arknights main branch, development branch, and log branch
 
+>    - 更新一些我与雨晴和嘉欣讨论过的点子
+>    - 建立GitHub页面 
+>    - 建立舟main分支，开发分支和日志分支
+
 ### 2023-03-07 ##
 
 ### before 以前 ###
