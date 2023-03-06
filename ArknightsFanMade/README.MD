@@ -157,6 +157,18 @@ If you have ever read the side stories of Ark, you must heard of Logos and stool
 
 
 ## Problems and solutions 问题和解决办法 ##
+- N/A
+
+## Update logs 更新日志 ##
+- Update several ideas that I've discussed with Yuqing and Jiaxing
+- Build GitHub page
+- Build Arknights main branch, development branch, and log branch
+
+### 2023-03-07 ##
+
+### before 以前 ###
+Came up with the idea of creating a fan made game
+> 做同人游戏的想法萌生
 
 ---
 
